@@ -1,0 +1,10 @@
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\bin\Debug\wfavonatjegy.exe.config
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\bin\Debug\wfavonatjegy.exe
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\bin\Debug\wfavonatjegy.pdb
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.csproj.AssemblyReference.cache
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.Form1.resources
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.Properties.Resources.resources
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.csproj.GenerateResource.cache
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.exe
+C:\Users\bastyai.botond\Desktop\wfavonatjegy\wfavonatjegy\obj\Debug\wfavonatjegy.pdb
